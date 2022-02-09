@@ -1,0 +1,6 @@
+{
+  "name": "aws-kms-provider-syntax-error-sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
